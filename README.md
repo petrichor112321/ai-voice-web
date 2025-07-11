@@ -77,8 +77,9 @@
 
 商务合作请联系，有更多想法的开发者也可以分享想法，看有没有机会落地实现。
 联系方式：
-
-![code.jpg](/code.jpg)
+<p align="center">
+  <img src="/code.jpg" alt="code" width="45%"  />
+</p>
 
 
 
