@@ -7,6 +7,9 @@
 
 ###  已实现将后端服务、web部署服务器，python版本3.11，，基本按照教程走没有什么太大问题，主要有问题的是ios移动浏览器端偶尔无法正常播放返回的TTS语音，待解决。
 
+![role.png](/role.png)
+![chat.png](/chat.png)
+
 ## 🎬 演示视频
 
 👉 [点击观看演示视频](https://aceiteach.hk/uploads/film/ai_voice.mp4)
@@ -73,7 +76,7 @@
 商务合作请联系，有更多想法的开发者也可以分享想法，看有没有机会落地实现。
 联系方式：
 
-![img.png](/code.png)
+![code.png](/code.png)
 
 
 
